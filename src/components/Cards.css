@@ -1,0 +1,39 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    padding-left: 11%;
+    /* text-decoration: none; */
+    
+    
+}
+
+.cardtext{
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 2%;
+
+}
+
+.card{
+    margin: 1rem;
+    
+
+}
+
+.card img{
+    height: 32vh;
+}
+
+.card-title{
+    color: rgb(0, 26, 255);
+}
+
+.learn {
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 2%;
+}
+
+
+
